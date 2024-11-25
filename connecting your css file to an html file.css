@@ -1,0 +1,29 @@
+h1 {
+color:black; 
+font-family: chalkduster; 
+background-color:orangered;
+}
+h5 {
+color:black; 
+font-family: chalkduster; 
+background-color:green;
+}
+h2 {
+color:black; 
+font-family: chalkduster; 
+background-color:orange;
+}
+p {
+font-family: fantasy; 
+}
+ul { 
+font-family: arial; 
+}
+h3 {
+color:turquoise; 
+font-family: chalkduster; 
+background-color:yellow;
+}
+body {
+background-color:tan;
+}
