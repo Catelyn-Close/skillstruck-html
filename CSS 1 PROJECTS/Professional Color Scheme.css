@@ -1,0 +1,43 @@
+button {
+color: #fffdfa;
+font-family: impact;
+background-color: pink;
+box-shadow: 10px 10px 10px 10px rgb(226, 169, 179);
+padding: 40px;
+border-width:medium;
+border-style: dotted;
+border-radius: 20px;
+
+}
+
+h1 {
+color: hotpink;
+clear: both;
+}
+
+h2 {
+color: #e88282;
+opacity: .8;
+}
+
+.para1 {
+font-family: fantasy;
+color: green
+}
+
+.para2 {
+}
+
+.para3 {
+}
+@media(min-width: 768px) {
+    body {
+        background-image:linear-gradient(pink,hotpink,red,orangered,orange,yellow,yellowgreen,green,darkgreen,darkcyan,lightblue,cyan,lavender,plum,purple,);
+    }
+}
+body {
+background-image: linear-gradient(#ffb866, #ffe97a, #fffdfa, #a3c2ff, #618de5);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
